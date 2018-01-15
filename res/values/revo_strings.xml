@@ -23,4 +23,7 @@
     <string name="revo_settings_title">Personalization</string>
     <string name="revo_settings_summary">Additional settings</string>
 
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
 </resources>
