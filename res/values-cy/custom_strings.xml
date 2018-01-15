@@ -28,4 +28,7 @@
     <!-- Thermal control per app -->
     <!-- Notch behavior -->
 
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Vincular volumen de tono y notificación</string>
+
 </resources>
