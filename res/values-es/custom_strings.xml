@@ -135,4 +135,13 @@
     <string name="display_cutout_mode_title">Comportamiento del Notch</string>
     <string name="display_cutout_mode_normal">Por defecto</string>
     <string name="display_cutout_mode_hidden">Oculto</string>
-</resources>
+
+	<!-- Revolution Settings -->
+    <string name="revo_settings_title">Personalización</string>
+    <string name="revo_settings_summary">Ajustes Revolution</string>
+
+    <!-- RevOS version -->
+    <string name="revo_version">Versión de RevOS</string>
+    <string name="revo_version_default">Desconocida</string>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">

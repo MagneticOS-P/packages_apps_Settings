@@ -151,4 +151,8 @@
     <string name="display_cutout_mode_normal">Default</string>
     <string name="display_cutout_mode_hidden">Hidden</string>
 
+    <!-- RevOS version -->
+    <string name="revo_version">RevOS version</string>
+    <string name="revo_version_default">Unknown</string>
+
 </resources>
