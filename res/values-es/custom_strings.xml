@@ -9,4 +9,8 @@
     <string name="revo_version">Versión de RevOS</string>
     <string name="revo_version_default">Desconocida</string>
 
+	<!-- Revolution Settings -->
+    <string name="revo_settings_title">Personalización</string>
+    <string name="revo_settings_summary">Ajustes Revolution</string>
+
 </resources>
