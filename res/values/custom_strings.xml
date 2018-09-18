@@ -166,4 +166,11 @@
     <string name="revo_perf_modes_gaming">Gaming</string>
     <string name="revo_perf_modes_performance">High Performance</string>
 
+    <!-- Pixel color on sim card -->
+    <string name="pixel_sim_color">Pixel</string>
+	
+	<!-- Revolution Settings -->
+    <string name="revo_settings_title">Personalization</string>
+    <string name="revo_settings_summary">Additional settings</string>
+
 </resources>
