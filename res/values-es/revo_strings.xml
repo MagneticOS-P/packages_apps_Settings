@@ -23,4 +23,8 @@
     <string name="revo_settings_title">Ajustes RevOS</string>
     <string name="revo_settings_summary">Ajustes adicionales</string>
 
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reiniciar estadísticas</string>
+    <string name="battery_stats_message">Las estadísticas de la batería serán reiniciadas</string>
+
 </resources>
