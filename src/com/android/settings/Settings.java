@@ -167,4 +167,7 @@ public class Settings extends SettingsActivity {
     public static class SystemDashboardActivity extends SettingsActivity {}
 	public static class RevoSettingsActivity extends SettingsActivity {}
 
+    // Ambient play
+    public static class AmbientPlayHistoryActivity extends SettingsActivity { /* empty */ }
+
 }

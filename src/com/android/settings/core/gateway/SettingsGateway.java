@@ -136,9 +136,13 @@ import com.android.settings.wifi.WifiInfo;
 import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.calling.WifiCallingSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
+<<<<<<< HEAD
 import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.revo.settings.RevoSettings;
+=======
+import com.android.settings.custom.ambient.history.AmbientPlayHistory;
+>>>>>>> 07bd09d82597d4963eb7135beab3f358961a2434
 
 public class SettingsGateway {
 
@@ -265,7 +269,11 @@ public class SettingsGateway {
             DirectoryAccessDetails.class.getName(),
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
+<<<<<<< HEAD
 			RevoSettings.class.getName()
+=======
+            AmbientPlayHistory.class.getName(),
+>>>>>>> 07bd09d82597d4963eb7135beab3f358961a2434
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
