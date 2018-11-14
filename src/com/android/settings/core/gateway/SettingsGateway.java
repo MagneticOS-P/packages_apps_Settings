@@ -146,7 +146,6 @@ import com.android.settings.custom.ambient.history.AmbientPlayHistory;
 import com.android.settings.wifi.tether.WifiTetherSettings;
 import com.android.settings.custom.ambient.history.AmbientPlayHistory;
 
-
 public class SettingsGateway {
 
     /**
@@ -272,7 +271,6 @@ public class SettingsGateway {
             DirectoryAccessDetails.class.getName(),
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
-			RevoSettings.class.getName(),
             AmbientPlayHistory.class.getName(),
     };
 
