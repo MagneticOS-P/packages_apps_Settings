@@ -271,6 +271,7 @@ public class SettingsGateway {
             DirectoryAccessDetails.class.getName(),
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
+            RevoSettings.class.getName(),
             AmbientPlayHistory.class.getName(),
     };
 
