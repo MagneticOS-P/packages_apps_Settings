@@ -155,4 +155,7 @@
     <string name="revo_version">RevOS version</string>
     <string name="revo_version_default">Unknown</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp">Battery temperature</string>
+
 </resources>

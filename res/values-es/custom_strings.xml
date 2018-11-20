@@ -144,4 +144,7 @@
     <string name="revo_version">Versión de RevOS</string>
     <string name="revo_version_default">Desconocida</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp">Temperatura de la batería</string>
+
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
