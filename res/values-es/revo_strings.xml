@@ -27,4 +27,7 @@
     <string name="battery_stats_reset">Reiniciar estadísticas</string>
     <string name="battery_stats_message">Las estadísticas de la batería serán reiniciadas</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp">Temperatura de la batería</string>
+
 </resources>

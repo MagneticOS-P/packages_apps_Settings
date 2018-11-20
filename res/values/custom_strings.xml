@@ -140,4 +140,7 @@
     <string name="face_auto_unlock_title">Automatic face unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lock screen after face unlock</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp">Battery temperature</string>
+
 </resources>
