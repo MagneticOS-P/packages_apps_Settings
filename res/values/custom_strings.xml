@@ -140,7 +140,22 @@
     <string name="face_auto_unlock_title">Automatic face unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lock screen after face unlock</string>
 
+
     <!-- Battery temp -->
     <string name="battery_temp">Battery temperature</string>
+
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">Advanced restart</string>
+    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+
+    <!-- Thermal control per app -->
+    <string name="thermal_control_per_app">Optimization profile</string>
+    <string name="thermal_control_per_app_default">No optimization</string>
+    <string name="thermal_control_per_app_benchmark">Performance</string>
+    <string name="thermal_control_per_app_games">Games</string>
+    <string name="thermal_control_per_app_browser">Browser</string>
+    <string name="thermal_control_per_app_video_playback">Video playback</string>
+    <string name="thermal_control_per_app_dialer">Dialer</string>
+    <string name="thermal_control_per_app_camera">Camera</string>
 
 </resources>
