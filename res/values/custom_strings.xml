@@ -153,4 +153,11 @@
     <string name="thermal_control_per_app_dialer">Dialer</string>
     <string name="thermal_control_per_app_camera">Camera</string>
 
+    <!-- Revo Perf Modes -->
+    <string name="revo_perf_modes">Performance profile</string>
+    <string name="revo_perf_modes_battery">Extreme Battery</string>
+    <string name="revo_perf_modes_balanced">Default</string>
+    <string name="revo_perf_modes_gaming">Gaming</string>
+    <string name="revo_perf_modes_performance">High Performance</string>
+
 </resources>
