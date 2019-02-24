@@ -92,6 +92,8 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
     private static final String KEY_TIME_SINCE_LAST_FULL_CHARGE = "last_full_charge";
     private static final String KEY_BATTERY_SAVER_SUMMARY = "battery_saver_summary";
 
+    private static final String PREF_PERF_MODES = "revo_perf_modes";
+
     @VisibleForTesting
     static final int BATTERY_INFO_LOADER = 1;
     @VisibleForTesting
@@ -240,6 +242,16 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
         restartBatteryInfoLoader();
         mBatteryTipPreferenceController.restoreInstanceState(icicle);
         updateBatteryTipFlag(icicle);
+
+        Preference mPerfModes = (Preference) findPreference(PREF_PERF_MODES);
+        if (!supportPerfModes(getContext()))
+            getPreferenceScreen().removePreference(mPerfModes);
+    
+    }
+
+    private static boolean supportPerfModes(Context context) {
+        return context.getResources().getBoolean(
+                com.android.internal.R.bool.config_supportPerfModes);
     }
 
     @Override
