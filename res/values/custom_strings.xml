@@ -158,4 +158,11 @@
     <!-- Battery temp -->
     <string name="battery_temp">Battery temperature</string>
 
+    <!-- Revo Perf Modes -->
+    <string name="revo_perf_modes">Performance profile</string>
+    <string name="revo_perf_modes_battery">Extreme Battery</string>
+    <string name="revo_perf_modes_balanced">Default</string>
+    <string name="revo_perf_modes_gaming">Gaming</string>
+    <string name="revo_perf_modes_performance">High Performance</string>
+
 </resources>

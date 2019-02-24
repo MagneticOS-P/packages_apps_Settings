@@ -120,4 +120,19 @@
         <item>1</item>
     </string-array>
 
+    <!-- Perf modes -->
+    <string-array name="revo_perf_modes_entries" >
+        <item>@string/revo_perf_modes_battery</item>
+        <item>@string/revo_perf_modes_balanced</item>
+        <item>@string/revo_perf_modes_gaming</item>
+        <item>@string/revo_perf_modes_performance</item>
+    </string-array>
+
+    <string-array name="revo_perf_modes_values" translatable="false" >
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
 </resources>
