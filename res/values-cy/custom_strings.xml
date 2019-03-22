@@ -28,14 +28,4 @@
     <!-- Thermal control per app -->
     <!-- Notch behavior -->
 
-    <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Vincular volumen de tono y notificación</string>
-
-    <!-- Revo Perf Modes -->
-    <string name="revo_perf_modes">Perfiles de batería</string>
-    <string name="revo_perf_modes_battery">Ahorro de batería</string>
-    <string name="revo_perf_modes_balanced">Por defecto</string>
-    <string name="revo_perf_modes_gaming">Juegos</string>
-    <string name="revo_perf_modes_performance">Alto rendimiento</string>
-
 </resources>
