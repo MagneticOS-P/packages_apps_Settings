@@ -131,4 +131,8 @@
     <string name="thermal_control_per_app_video_playback">Videode Vaatamine</string>
     <string name="thermal_control_per_app_dialer">Valija</string>
     <string name="thermal_control_per_app_camera">Kaamera</string>
+    <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Aste käitumine</string>
+    <string name="display_cutout_mode_normal">Vaikimisi</string>
+    <string name="display_cutout_mode_hidden">Peidetud</string>
 </resources>

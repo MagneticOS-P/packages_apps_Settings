@@ -69,7 +69,7 @@
     <string name="hardware_keys_long_tap_title">การแตะค้าง</string>
     <string name="button_wake_title">เปิดอุปกรณ์</string>
     <string name="camera_sleep_on_release_title">มองหน้าจอ</string>
-    <string name="camera_sleep_on_release_summary">การกดเพียงครึ่งหนึ่งจะทำให้หน้าจอเปิดค้างไว้ โดยเฉพาะขณะที่กดปุ่มค้างไว้</string>
+    <string name="camera_sleep_on_release_summary">การกดเพียงครึ่งเดียวจะเปิดจอไว้เฉพาะเมื่อปุ่มถูกกดค้างอยู่</string>
     <string name="camera_launch_title">เปิดกล้อง</string>
     <string name="camera_launch_summary">กดค้างแล้วปล่อย เพื่อเปิดใช้กล้อง</string>
     <!-- Key backlight -->
@@ -107,7 +107,7 @@
     <string name="ambient_play_history_dialog_remove_all_confirmation">คุณแน่ใจนะ?</string>
     <string name="ambient_play_saving_options_title">ตัวเลือกการบันทึก</string>
     <string name="ambient_play_saving_options_summary">ตัวเลือกในการลดการใช้พลังงานแบตเตอรี่และเครือข่าย</string>
-    <string name="ambient_play_saving_options_low_battery_title">แบตเตอรี่ต่ำ</string>
+    <string name="ambient_play_saving_options_low_battery_title">แบตเตอรี่อ่อน</string>
     <string name="ambient_play_saving_options_low_battery_summary">ปิดไม่ต้องรู้จำเมื่อแบตเตอรี่ใกล้หมด</string>
     <string name="ambient_play_saving_options_mobile_data_title">ข้อมูลมือถือ</string>
     <string name="ambient_play_saving_options_mobile_data_summary">ปิดไม่ใช้การรู้จำเมื่อใช้ข้อมูลผ่านครือข่ายมือถือ</string>
@@ -123,4 +123,13 @@
     <string name="advanced_reboot_title">เริ่มระบบใหม่แบบขั้นสูง</string>
     <string name="advanced_reboot_summary">เมื่อปลดล็อกแล้ว ให้รวมตัวเลือกในเมนูพลังงาน เพื่อเริ่มต้นใหม่ในการกู้คืนระบบ หรือบูตโหลดเดอร์</string>
     <!-- Thermal control per app -->
+    <string name="thermal_control_per_app">โปรไฟล์การปรับปรุง</string>
+    <string name="thermal_control_per_app_default">ไม่มีการปรับปรุง</string>
+    <string name="thermal_control_per_app_benchmark">ประสิทธิภาพ</string>
+    <string name="thermal_control_per_app_games">เกมส์</string>
+    <string name="thermal_control_per_app_browser">บราวเซอร์</string>
+    <string name="thermal_control_per_app_video_playback">การเล่นวิดีโอ</string>
+    <string name="thermal_control_per_app_dialer">โทรศัพท์</string>
+    <string name="thermal_control_per_app_camera">กล้องถ่ายรูป</string>
+    <!-- Notch behavior -->
 </resources>

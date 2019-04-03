@@ -128,6 +128,11 @@
     <string name="thermal_control_per_app_benchmark">Продуктивність</string>
     <string name="thermal_control_per_app_games">Ігри</string>
     <string name="thermal_control_per_app_browser">Браузер</string>
+    <string name="thermal_control_per_app_video_playback">Відтворення відео</string>
     <string name="thermal_control_per_app_dialer">Номеронабирач</string>
     <string name="thermal_control_per_app_camera">Камера</string>
+    <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Налаштування вирізу</string>
+    <string name="display_cutout_mode_normal">За замовчуванням</string>
+    <string name="display_cutout_mode_hidden">Приховати виріз</string>
 </resources>
